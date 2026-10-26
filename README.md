@@ -1,4 +1,4 @@
-# Anonymous codebase for Soft Forward Backward Representations for Zero-shot General Utility Reinforcement Learning
+# Codebase for Soft Forward Backward Representations for Zero-shot General Utility Reinforcement Learning (NeurIPS 2026)
 
 ## Installation
 
