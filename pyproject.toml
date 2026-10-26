@@ -1,0 +1,19 @@
+[project]
+name = "soft_fb"
+version = "0.1.0"
+description = "Soft FB - anonymous codebase"
+readme = "README.md"
+requires-python = ">=3.10"
+
+dependencies = [
+    "dm_control==1.0.28",
+    "mujoco==3.3.0",
+    "ruff>=0.13.3",
+    "safetensors>=0.4.5",
+    "torch>=2.3",
+    "tqdm==4.67.1",
+    "tyro>=0.9.0",
+    "wandb>=0.19.0",
+    "tensordict>=0.10.0",
+    "matplotlib>=3.10.7"
+]

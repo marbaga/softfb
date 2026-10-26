@@ -1,0 +1,9 @@
+seed: 0
+
+use_wandb: true
+wandb_pname: null
+wandb_gname: test
+
+device: cuda
+compile: true
+cudagraphs: true
